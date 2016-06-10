@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+h1 {
+	font-family: 'Open Sans';
+}
+body {
+    margin-top: 60px
+    }
+ 
+img {
+    max-width: 100%;
+    border-radius: 50px;
+    }
+h2 {
+    font-family: 'Open Sans';
+    font-size: 35px;
+    }
+#centrartudo{
+    border: ;
+    padding: 10px;
+    width: 700px;
+    height: ;
+    text-align: center;
+    }
+p{
+    text-align: left;
+    font-size: 18px;
+    font-family: cambria;
+    }
+ul {
+    text-align: justify;
+    font-family: cambria;
+    font-size: 14px;
+    }
+h3,footer {
+    text-align: left;
+    font-family: cambria;
+    font-size: 16px;
+    }
+#assinatura {
+    text-align: center;
+    font-family: lucida bright;
+    font-size: 24;
+    }
+}
